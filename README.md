@@ -30,10 +30,18 @@ This project is done as part of learning NEXT JS concepts from the official docu
 - #### How to render markdown using remark.
 - #### How to pretty-print date strings.
 - #### How to link to a page with dynamic routes.
+- ## How to create an API Route.
+- ## Deployed using Vercel
 
 ## Acknowledgements
 
 - [Next JS Documentation](https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
+
+- [Vercel Deployment](https://vercel.com)
+
+## Demo
+
+- [Deployed Here](https://next-js-blog-three-beige.vercel.app/)
 
 # Hi, I'm Abhijith AS! 👋
 
